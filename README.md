@@ -26,7 +26,7 @@ Solution architect with deep hands-on experience across **telecom**, **financial
 
 ---
 
-### Go
+### 🔷 Go
 
 | Project | Description |
 |---------|-------------|
@@ -39,7 +39,7 @@ Solution architect with deep hands-on experience across **telecom**, **financial
 | **[distcache](https://github.com/Tochemey/distcache)** | Distributed read-through cache with consistent hashing and pluggable backends. |
 | **[kubewise](https://github.com/Tochemey/kubewise)** | Kubernetes CLI tool for cost simulation. |
 
-### Scala
+### 🟣 Scala
 
 | Project | Description |
 |---------|-------------|
@@ -47,7 +47,7 @@ Solution architect with deep hands-on experience across **telecom**, **financial
 | **[Akka Persistence JDBC](https://github.com/akka/akka-persistence-jdbc)** | Authored the JDBC schema migration support ([commit](https://github.com/akka/akka-persistence-jdbc/commit/c56753dab7db3e1a6a129153a673400efa234d98)), enabling seamless persistence store upgrades. |
 | **[ScalaPB Validate](https://github.com/scalapb/scalapb-validate)** | Contributor to the ScalaPB code generator for protobuf field validation, bringing protoc-gen-validate rules to Scala. |
 
-### C# / .NET
+### 🔵 C# / .NET
 
 | Project | Description | NuGet |
 |---------|-------------|:-----:|
