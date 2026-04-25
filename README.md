@@ -26,47 +26,19 @@ Solution architect with deep hands-on experience across **telecom**, **financial
 
 ---
 
-### 🔷 Go
-
-| Project                                                          | Description                                                                                                                                                     |
-|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[goakt](https://github.com/Tochemey/goakt)**                   | Distributed actor/grain framework inspired by Erlang & Akka. Production-ready with clustering, typed messages, pluggable serializers, and config-only remoting. |
-| **[ego](https://github.com/Tochemey/ego)**                       | Minimal event sourcing & CQRS library using protocol buffers for commands, events, and states.                                                                  |
-| **[groupcache](https://github.com/groupcache/groupcache-go)** | High-performance distributed in-memory cache.                                                                                                                   |
-| **[goakt-mcp](https://github.com/Tochemey/goakt-mcp)**           | Distributed MCP (Model Context Protocol) gateway built on GoAkt.                                                                                                |
-| **[goakt-ebpf](https://github.com/Tochemey/goakt-ebpf)**         | Auto-instrumentation for GoAkt using eBPF.                                                                                                                      |
-| **[runbook](https://github.com/runbookdev/runbook)**             | Executable runbooks as code.                                                                                                                                    |
-| **[distcache](https://github.com/Tochemey/distcache)**           | Distributed read-through cache with consistent hashing and pluggable backends.                                                                                  |
-| **[kubewise](https://github.com/Tochemey/kubewise)**             | Kubernetes CLI tool for cost simulation.                                                                                                                        |
-
-### 🟣 Scala
-
-| Project                                                                    | Description                                                                                                                                                                                         |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Chief of State](https://github.com/chief-of-state/chief-of-state)**     | Event sourcing runtime built on Akka. Provides a gRPC-based persistence layer that lets any service do event sourcing without coupling to an actor framework directly.                              |
-| **[Akka Persistence JDBC](https://github.com/akka/akka-persistence-jdbc)** | Authored the JDBC schema migration support ([commit](https://github.com/akka/akka-persistence-jdbc/commit/c56753dab7db3e1a6a129153a673400efa234d98)), enabling seamless persistence store upgrades. |
-| **[ScalaPB Validate](https://github.com/scalapb/scalapb-validate)**        | Contributor to the ScalaPB code generator for protobuf field validation, bringing protoc-gen-validate rules to Scala.                                                                               |
-
-### 🔵 C# / .NET
-
-| Project                                                              | Description                                                                                                   |                                                                            NuGet                                                                             |
-|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **[NetCore8583](https://github.com/Tochemey/NetCore8583)**           | .NET implementation of the ISO 8583 protocol for financial transaction messages. Feature-complete and mature. |      [![NuGet](https://img.shields.io/nuget/dt/NetCore8583?style=flat-square&label=downloads&color=004880)](https://www.nuget.org/packages/NetCore8583)      |
-| **[DotNetFreeSwitch](https://github.com/Tochemey/DotNetFreeSwitch)** | C# library for interacting with FreeSWITCH via ESL. High-level API for calls, conferences, and events.        | [![NuGet](https://img.shields.io/nuget/dt/DotNetFreeSwitch?style=flat-square&label=downloads&color=004880)](https://www.nuget.org/packages/DotNetFreeSwitch) |
-| **[Iso8583Suite](https://github.com/Tochemey/Iso8583Suite)**         | High-performance .NET TCP client and server for ISO 8583 financial messaging.                                 | [![NuGet](https://img.shields.io/nuget/dt/Iso8583.Client?style=flat-square&label=Client&color=004880)](https://www.nuget.org/packages/Iso8583.Client) [![NuGet](https://img.shields.io/nuget/dt/Iso8583.Server?style=flat-square&label=Server&color=004880)](https://www.nuget.org/packages/Iso8583.Server) [![NuGet](https://img.shields.io/nuget/dt/Iso8583.Common?style=flat-square&label=Common&color=004880)](https://www.nuget.org/packages/Iso8583.Common) |
-
----
-
-### Domain Expertise
+### Expertise
 
 ```text
-Actor Models & Virtual Grains    ███████████████░░░░░   Erlang/Akka patterns → Go
-Event Sourcing & CQRS            ██████████████░░░░░░   State as immutable facts
-Distributed System               ███████████░░░░░░░░░   Consistent hashing, P2P
-Observability                    █████████░░░░░░░░░░░   eBPF auto-instrumentation, distributed tracing
-Telecom & VoIP                   █████████████░░░░░░░   FreeSWITCH, ESL, SIP, call routing
-Financial Messaging              ████████████░░░░░░░░   ISO 8583, TCP servers, transactions
-Solution Architecture            ██████████████░░░░░░   End-to-end system design across industries
+Actor Model                      ███████████████████░   Erlang/Akka patterns → Go, Scala, Erlang, C#
+Event Sourcing & CQRS            ██████████████████░░   State as immutable facts
+Event-Driven Architecture        █████████████████░░░   Async messaging, choreography, pub/sub
+Microservices                    █████████████████░░░   Service decomposition, bounded contexts
+BDD                              ████████████████░░░░   Gherkin, executable specifications
+Distributed System               █████████████████░░░   Consistent hashing, P2P
+Observability                    ████████████████░░░░   eBPF auto-instrumentation, distributed tracing
+Telecom & VoIP                   █████████████████░░░   FreeSWITCH, ESL, SIP, call routing
+Financial Messaging              █████████████████░░░   ISO 8583, TCP servers, transactions
+Solution Architect               ██████████████████░░   End-to-end system design across industries
 ```
 
 **Industry experience:** Telecommunications · Financial Services · Fintech · Healthcare · E-commerce · Government
