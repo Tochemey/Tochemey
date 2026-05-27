@@ -29,16 +29,16 @@ Solution architect with deep hands-on experience across **telecom**, **financial
 ### Expertise
 
 ```text
-Actor Model                      ███████████████████░   Erlang/Akka patterns → Go, Scala, Erlang, C#
-Event Sourcing & CQRS            ██████████████████░░   State as immutable facts
-Event-Driven Architecture        █████████████████░░░   Async messaging, choreography, pub/sub
-Microservices                    █████████████████░░░   Service decomposition, bounded contexts
-BDD                              ████████████████░░░░   Gherkin, executable specifications
-Distributed System               █████████████████░░░   Consistent hashing, P2P
-Observability                    ████████████████░░░░   eBPF auto-instrumentation, distributed tracing
+Actor Model                      ████████████████████   Erlang/Akka patterns → Go, Scala, Erlang, C#
+Event Sourcing & CQRS            ████████████████████   State as immutable facts, projections, snapshots
+Event-Driven Architecture        ████████████████████   Async messaging, choreography, pub/sub, sagas
+Microservices                    ████████████████████   Service decomposition, bounded contexts, DDD
+BDD                              ████████████████████   Gherkin, executable specifications, TDD
+Distributed Systems              ████████████████████   Consensus, consistent hashing, gossip, P2P, CRDTs, cluster membership
+Observability                    ████████████████████   eBPF auto-instrumentation, distributed tracing, metrics, structured logging
 Telecom & VoIP                   █████████████████░░░   FreeSWITCH, ESL, SIP, call routing
-Financial Messaging              █████████████████░░░   ISO 8583, TCP servers, transactions
-Solution Architect               ██████████████████░░   End-to-end system design across industries
+Financial Messaging              ████████████████████   ISO 8583, TCP servers, transactions, switch integration
+Solution Architect               ████████████████████   End-to-end system design across industries
 ```
 
 **Industry experience:** Telecommunications · Financial Services · Fintech · Healthcare · E-commerce · Government
