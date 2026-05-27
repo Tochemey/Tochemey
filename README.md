@@ -34,8 +34,8 @@ Event Sourcing & CQRS            ███████████████�
 Event-Driven Architecture        ████████████████████   Async messaging, choreography, pub/sub, sagas
 Microservices                    ████████████████████   Service decomposition, bounded contexts, DDD
 BDD                              ████████████████████   Gherkin, executable specifications, TDD
-Distributed Systems              ████████████████████   Consensus, consistent hashing, gossip, P2P, CRDTs, cluster membership
-Observability                    ████████████████████   eBPF auto-instrumentation, distributed tracing, metrics, structured logging
+Distributed Systems              ████████████████████   Consensus, consistent hashing, gossip, P2P, CRDTs
+Observability                    ████████████████████   eBPF auto-instrumentation, distributed tracing, metrics
 Telecom & VoIP                   █████████████████░░░   FreeSWITCH, ESL, SIP, call routing
 Financial Messaging              ████████████████████   ISO 8583, TCP servers, transactions, switch integration
 Solution Architect               ████████████████████   End-to-end system design across industries
