@@ -1,19 +1,16 @@
 <h1 align="center">Arsene Gandote</h1>
 
 <p align="center">
-  <em>Solution Architect & Software Engineer — Distributed Systems, Actor Frameworks & Event-Driven Architectures</em><br/>
+  <em>Solution Architect & Software Engineer</em><br/>
+  <em>Distributed Systems, Actor Frameworks & Event-Driven Architectures</em><br/>
   <sub>Oxford, Oxfordshire, United Kingdom</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arsene-gandote-97364b70/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/sponsors/Tochemey"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/eBPF-FFD500?style=flat-square&logo=linux&logoColor=black"/>
@@ -22,26 +19,9 @@
 
 ---
 
-Solution architect with deep hands-on experience across **telecom**, **financial services**, **healthcare**, and **e-commerce**. I build tools and libraries for **distributed computing**, **event sourcing**, and **high-performance messaging** — mostly in Go, Scala, and C#.
+Solution architect with deep hands-on experience across industries, from **telecommunications** and **financial services** to **fintech**, **healthcare**, **e-commerce**, and **government**. I build tools and libraries for **distributed computing**, **event sourcing**, and **high-performance messaging**, mostly in Go, Scala, C#, and TypeScript. 
 
----
-
-### Expertise
-
-```text
-Actor Model                      ████████████████████   Erlang/Akka patterns → Go, Scala, Erlang, C#
-Event Sourcing & CQRS            ████████████████████   State as immutable facts, projections, snapshots
-Event-Driven Architecture        ████████████████████   Async messaging, choreography, pub/sub, sagas
-Microservices                    ████████████████████   Service decomposition, bounded contexts, DDD
-BDD                              ████████████████████   Gherkin, executable specifications, TDD
-Distributed Systems              ████████████████████   Consensus, consistent hashing, gossip, P2P, CRDTs
-Observability                    ████████████████████   eBPF auto-instrumentation, distributed tracing, metrics
-Telecom & VoIP                   █████████████████░░░   FreeSWITCH, ESL, SIP, call routing
-Financial Messaging              ████████████████████   ISO 8583, TCP servers, transactions, switch integration
-Solution Architect               ████████████████████   End-to-end system design across industries
-```
-
-**Industry experience:** Telecommunications · Financial Services · Fintech · Healthcare · E-commerce · Government
+Work spans actor systems, CRDTs and gossip protocols, eBPF-based observability, FreeSWITCH telephony, and ISO 8583 payment switching.
 
 ---
 
